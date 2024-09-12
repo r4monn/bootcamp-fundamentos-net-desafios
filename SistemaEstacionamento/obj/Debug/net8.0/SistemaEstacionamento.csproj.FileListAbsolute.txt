@@ -1,0 +1,17 @@
+/home/ramon/Documentos/DIO/SistemaEstacionamento/trilha-net-fundamentos-desafio-main/SistemaEstacionamento/bin/Debug/net8.0/SistemaEstacionamento
+/home/ramon/Documentos/DIO/SistemaEstacionamento/trilha-net-fundamentos-desafio-main/SistemaEstacionamento/bin/Debug/net8.0/SistemaEstacionamento.deps.json
+/home/ramon/Documentos/DIO/SistemaEstacionamento/trilha-net-fundamentos-desafio-main/SistemaEstacionamento/bin/Debug/net8.0/SistemaEstacionamento.runtimeconfig.json
+/home/ramon/Documentos/DIO/SistemaEstacionamento/trilha-net-fundamentos-desafio-main/SistemaEstacionamento/bin/Debug/net8.0/SistemaEstacionamento.dll
+/home/ramon/Documentos/DIO/SistemaEstacionamento/trilha-net-fundamentos-desafio-main/SistemaEstacionamento/bin/Debug/net8.0/SistemaEstacionamento.pdb
+/home/ramon/Documentos/DIO/SistemaEstacionamento/trilha-net-fundamentos-desafio-main/SistemaEstacionamento/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/ramon/Documentos/DIO/SistemaEstacionamento/trilha-net-fundamentos-desafio-main/SistemaEstacionamento/obj/Debug/net8.0/SistemaEstacionamento.csproj.AssemblyReference.cache
+/home/ramon/Documentos/DIO/SistemaEstacionamento/trilha-net-fundamentos-desafio-main/SistemaEstacionamento/obj/Debug/net8.0/SistemaEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+/home/ramon/Documentos/DIO/SistemaEstacionamento/trilha-net-fundamentos-desafio-main/SistemaEstacionamento/obj/Debug/net8.0/SistemaEstacionamento.AssemblyInfoInputs.cache
+/home/ramon/Documentos/DIO/SistemaEstacionamento/trilha-net-fundamentos-desafio-main/SistemaEstacionamento/obj/Debug/net8.0/SistemaEstacionamento.AssemblyInfo.cs
+/home/ramon/Documentos/DIO/SistemaEstacionamento/trilha-net-fundamentos-desafio-main/SistemaEstacionamento/obj/Debug/net8.0/SistemaEstacionamento.csproj.CoreCompileInputs.cache
+/home/ramon/Documentos/DIO/SistemaEstacionamento/trilha-net-fundamentos-desafio-main/SistemaEstacionamento/obj/Debug/net8.0/SistemaE.1B25301C.Up2Date
+/home/ramon/Documentos/DIO/SistemaEstacionamento/trilha-net-fundamentos-desafio-main/SistemaEstacionamento/obj/Debug/net8.0/SistemaEstacionamento.dll
+/home/ramon/Documentos/DIO/SistemaEstacionamento/trilha-net-fundamentos-desafio-main/SistemaEstacionamento/obj/Debug/net8.0/refint/SistemaEstacionamento.dll
+/home/ramon/Documentos/DIO/SistemaEstacionamento/trilha-net-fundamentos-desafio-main/SistemaEstacionamento/obj/Debug/net8.0/SistemaEstacionamento.pdb
+/home/ramon/Documentos/DIO/SistemaEstacionamento/trilha-net-fundamentos-desafio-main/SistemaEstacionamento/obj/Debug/net8.0/SistemaEstacionamento.genruntimeconfig.cache
+/home/ramon/Documentos/DIO/SistemaEstacionamento/trilha-net-fundamentos-desafio-main/SistemaEstacionamento/obj/Debug/net8.0/ref/SistemaEstacionamento.dll

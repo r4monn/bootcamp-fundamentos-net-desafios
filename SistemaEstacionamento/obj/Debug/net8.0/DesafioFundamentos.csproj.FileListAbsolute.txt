@@ -1,0 +1,14 @@
+/home/ramon/Documentos/DIO/SistemaEstacionamento/trilha-net-fundamentos-desafio-main/DesafioFundamentos/bin/Debug/net8.0/DesafioFundamentos
+/home/ramon/Documentos/DIO/SistemaEstacionamento/trilha-net-fundamentos-desafio-main/DesafioFundamentos/bin/Debug/net8.0/DesafioFundamentos.deps.json
+/home/ramon/Documentos/DIO/SistemaEstacionamento/trilha-net-fundamentos-desafio-main/DesafioFundamentos/bin/Debug/net8.0/DesafioFundamentos.runtimeconfig.json
+/home/ramon/Documentos/DIO/SistemaEstacionamento/trilha-net-fundamentos-desafio-main/DesafioFundamentos/bin/Debug/net8.0/DesafioFundamentos.dll
+/home/ramon/Documentos/DIO/SistemaEstacionamento/trilha-net-fundamentos-desafio-main/DesafioFundamentos/bin/Debug/net8.0/DesafioFundamentos.pdb
+/home/ramon/Documentos/DIO/SistemaEstacionamento/trilha-net-fundamentos-desafio-main/DesafioFundamentos/obj/Debug/net8.0/DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/home/ramon/Documentos/DIO/SistemaEstacionamento/trilha-net-fundamentos-desafio-main/DesafioFundamentos/obj/Debug/net8.0/DesafioFundamentos.AssemblyInfoInputs.cache
+/home/ramon/Documentos/DIO/SistemaEstacionamento/trilha-net-fundamentos-desafio-main/DesafioFundamentos/obj/Debug/net8.0/DesafioFundamentos.AssemblyInfo.cs
+/home/ramon/Documentos/DIO/SistemaEstacionamento/trilha-net-fundamentos-desafio-main/DesafioFundamentos/obj/Debug/net8.0/DesafioFundamentos.csproj.CoreCompileInputs.cache
+/home/ramon/Documentos/DIO/SistemaEstacionamento/trilha-net-fundamentos-desafio-main/DesafioFundamentos/obj/Debug/net8.0/DesafioFundamentos.dll
+/home/ramon/Documentos/DIO/SistemaEstacionamento/trilha-net-fundamentos-desafio-main/DesafioFundamentos/obj/Debug/net8.0/refint/DesafioFundamentos.dll
+/home/ramon/Documentos/DIO/SistemaEstacionamento/trilha-net-fundamentos-desafio-main/DesafioFundamentos/obj/Debug/net8.0/DesafioFundamentos.pdb
+/home/ramon/Documentos/DIO/SistemaEstacionamento/trilha-net-fundamentos-desafio-main/DesafioFundamentos/obj/Debug/net8.0/DesafioFundamentos.genruntimeconfig.cache
+/home/ramon/Documentos/DIO/SistemaEstacionamento/trilha-net-fundamentos-desafio-main/DesafioFundamentos/obj/Debug/net8.0/ref/DesafioFundamentos.dll
